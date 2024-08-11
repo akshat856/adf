@@ -1,0 +1,9 @@
+{
+	"name": "fstdatafacory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cb48df4-db21-4306-965d-2238917273e5",
+		"tenantId": "2188dc0f-c70c-492f-af28-f1657e60f932"
+	}
+}
